@@ -112,7 +112,7 @@ body{
 	display: none;
 }
 .perker_topbar .dropdown .main{
-	width: 100%;
+	width: 50%;
 	height: auto;
 	clear: both;
 	float: left;
@@ -124,7 +124,7 @@ body{
 }
 .perker_topbar .dropdown .main ul li{
 	margin: 0px;
-	width: 100%;
+	width: 50%;
 	float: left;
 }
 .perker_topbar .dropdown .main ul li a{
